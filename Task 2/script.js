@@ -29,5 +29,5 @@ three = {
 three = {
     vardas: '',
     pavarde: '',
-    lytis: 'vyras' //'sraigtasparnis' // error
+    lytis: 'vyras'
 };
