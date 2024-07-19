@@ -23,11 +23,22 @@
 }
 
 form {
-  max-width: 90%;
-  margin: 50px;
+  max-width: 50%;
+  margin: 50px auto;
   display: flex;
-  flex-wrap: wrap;
-  justify-content: center; 
+  flex-wrap: wrap; 
+  justify-content: center;
+
+}
+
+#meter {
+  width: 50%;
+  margin: 0;
+  padding: 10px;
+  outline: 0;
+  border: 1px solid #000;
+  border-radius: 5px;
+  font-size: 1em;
 }
 
 #search {
