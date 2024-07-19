@@ -23,20 +23,20 @@
 }
 
 form {
-  max-width: 80%;
-  margin: 50px auto;
+  max-width: 90%;
+  margin: 50px;
   display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: center; 
 }
 
 #search {
-  width: 65%;
+  width: 80%;
   margin: 0;
-  padding: 20px;
+  padding: 50px;
   outline: 0;
   border: 0;
-  font-size: 1.1em;
+  font-size: 1.5em;
   
 }
 
