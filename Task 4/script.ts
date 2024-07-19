@@ -7,7 +7,7 @@ Pvz.:
   "a"       --> 1
 -------------------------------------------------------------------------- */
 
-function binaryString(text: string): string {
+function binary(text: string): string {
   
   let result = '1';
   
@@ -19,6 +19,6 @@ function binaryString(text: string): string {
   return result;
 }
 
-console.log(binaryString("oras"));   
-console.log(binaryString("besikiskiakopusteliaudamas")); 
-console.log(binaryString("323254"));       
+console.log(binary("oras"));   
+console.log(binary("besikiskiakopusteliaudamas")); 
+console.log(binary("323254"));       
